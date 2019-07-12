@@ -26,6 +26,8 @@ PS：注意区分与多维向量的区别。
 * 图像 4D，形状为（samples，height，width，channels）或（samples，channels，height，width）
 * 视频 5D，形状为（samples，frames，height，width，channels）或（samples，frames，channels，height，width）
 
+### 2.3zangliangdeyunsuan
+
 #### E.张量的广播
 
 在进行高维张量和低维张量的运算时，会自动将低维张量增加新轴，**并沿着新轴不断重复**，使得**形状**与高维张量相同。
@@ -37,7 +39,7 @@ PS：注意区分与多维向量的区别。
 改变**张量的行和列**,以获取需要的形状，但是变形**不会改变元素个数**。
 >**张量转置**：行列互换
 
- asdasd
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxOTIxMzM4XX0=
+eyJoaXN0b3J5IjpbMTQzMDI4NjA5LDkzMTkyMTMzOF19
 -->
