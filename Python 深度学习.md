@@ -38,7 +38,10 @@ PS：注意区分与多维向量的区别。
 #### C.张量变形
 改变**张量的行和列**,以获取需要的形状，但是变形**不会改变元素个数**。
 >**张量转置**：行列互换
- 
+
+### 2.4 基于梯度的优化
+
+ #### A.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzU4MzI5Niw5MzE5MjEzMzhdfQ==
+eyJoaXN0b3J5IjpbLTExNjE5OTE1NjksOTMxOTIxMzM4XX0=
 -->
