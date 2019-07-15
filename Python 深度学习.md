@@ -52,9 +52,9 @@ PS：注意区分与多维向量的区别。
 ### 3.4 电影评论分类：二分类问题
 #### A. Dense层堆叠类型的网络构建
 网络有多少层
-每层有多少个****
+每层有多少个*隐藏单元*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MTczMzMzLDEwMzc1NjgwNDQsMjc2OT
+eyJoaXN0b3J5IjpbNTczMTc4NDY2LDEwMzc1NjgwNDQsMjc2OT
 M2OTQwLC0xMTYxOTkxNTY5LDkzMTkyMTMzOF19
 -->
