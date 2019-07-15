@@ -40,10 +40,13 @@ PS：注意区分与多维向量的区别。
 >**张量转置**：行列互换
 
 ## 3.神经网络入门
+
 ### 3.1 神经网络剖析
 #### 3.1.1 层
-A. 密集连接层(全连接cen): 用于2D张量 Dense
-B. quan
+A. 密集连接层(全连接层): 用于2D张量 Dense
+B. 循环层: 用于3D张量 例如LSTM层
+C. 二维卷积层: 用于4D张量 例如Conv2D
+
 ### 3.2 Keras入门
 #### 3.2.2 Keras开发流程
 * 定义训练数据
@@ -59,9 +62,11 @@ B. quan
 >2.每层有多少个**隐藏单元**
 >>隐藏单元越多,学习自由度越高,计算代价会越大,但过高会导致过拟合(调参的一部分)
 
+>3.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDM3NDk0OCwxMzMyNTQxODM3LDEwMz
-c1NjgwNDQsMjc2OTM2OTQwLC0xMTYxOTkxNTY5LDkzMTkyMTMz
-OF19
+eyJoaXN0b3J5IjpbODk0ODM5NTExLDEzMzI1NDE4MzcsMTAzNz
+U2ODA0NCwyNzY5MzY5NDAsLTExNjE5OTE1NjksOTMxOTIxMzM4
+XX0=
 -->
