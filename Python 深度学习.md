@@ -40,6 +40,10 @@ PS：注意区分与多维向量的区别。
 >**张量转置**：行列互换
 
 ## 3.神经网络入门
+### 3.1 神经网络剖析
+#### 3.1.1 层
+A. 密集连接层(全连接cen): 用于2D张量 Dense
+B. quan
 ### 3.2 Keras入门
 #### 3.2.2 Keras开发流程
 * 定义训练数据
@@ -57,6 +61,7 @@ PS：注意区分与多维向量的区别。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjU0MTgzNywxMDM3NTY4MDQ0LDI3Nj
-kzNjk0MCwtMTE2MTk5MTU2OSw5MzE5MjEzMzhdfQ==
+eyJoaXN0b3J5IjpbMTI0NDM3NDk0OCwxMzMyNTQxODM3LDEwMz
+c1NjgwNDQsMjc2OTM2OTQwLC0xMTYxOTkxNTY5LDkzMTkyMTMz
+OF19
 -->
