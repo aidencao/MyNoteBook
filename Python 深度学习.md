@@ -39,9 +39,10 @@ PS：注意区分与多维向量的区别。
 改变**张量的行和列**,以获取需要的形状，但是变形**不会改变元素个数**。
 >**张量转置**：行列互换
 
-### 2.4 基于梯度的优化
-
- #### A.
+## 3.神经网络入门
+### 3.2 Keras入门
+#### 3.2.2 Keras开发流程
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE5OTE1NjksOTMxOTIxMzM4XX0=
+eyJoaXN0b3J5IjpbLTE1OTQwOTcwMzUsLTExNjE5OTE1NjksOT
+MxOTIxMzM4XX0=
 -->
