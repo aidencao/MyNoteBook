@@ -61,12 +61,11 @@ C. 二维卷积层: 用于4D张量 例如Conv2D
 >1.网络有多少层
 >2.每层有多少个**隐藏单元**
 >>隐藏单元越多,学习自由度越高,计算代价会越大,但过高会导致过拟合(调参的一部分)
-
->3.
+>3.激活函数的选择
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0ODM5NTExLDEzMzI1NDE4MzcsMTAzNz
-U2ODA0NCwyNzY5MzY5NDAsLTExNjE5OTE1NjksOTMxOTIxMzM4
-XX0=
+eyJoaXN0b3J5IjpbLTQ5NTcxMTc1OSwxMzMyNTQxODM3LDEwMz
+c1NjgwNDQsMjc2OTM2OTQwLC0xMTYxOTkxNTY5LDkzMTkyMTMz
+OF19
 -->
