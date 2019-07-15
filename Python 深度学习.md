@@ -45,8 +45,8 @@ PS：注意区分与多维向量的区别。
 * 定义训练数据
 * 定义网络
 * 配置学习过程（损失函数、优化器、需要监控）
-* 
+* 进行学习
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDk2MzM1NiwtMTE2MTk5MTU2OSw5Mz
+eyJoaXN0b3J5IjpbMTMxMjMwMjcxMywtMTE2MTk5MTU2OSw5Mz
 E5MjEzMzhdfQ==
 -->
