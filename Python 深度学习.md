@@ -48,7 +48,9 @@ PS：注意区分与多维向量的区别。
 > 2. 函数式API
 * 配置学习过程（损失函数、优化器、需要监控）
 * 进行学习
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2OTM2OTQwLC0xMTYxOTkxNTY5LDkzMT
-kyMTMzOF19
+eyJoaXN0b3J5IjpbLTE4Mjg0MTA0MjQsMjc2OTM2OTQwLC0xMT
+YxOTkxNTY5LDkzMTkyMTMzOF19
 -->
