@@ -44,9 +44,10 @@ PS：注意区分与多维向量的区别。
 #### 3.2.2 Keras开发流程
 * 定义训练数据
 * 定义网络
+> 1. 使用
 * 配置学习过程（损失函数、优化器、需要监控）
 * 进行学习
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjMwMjcxMywtMTE2MTk5MTU2OSw5Mz
-E5MjEzMzhdfQ==
+eyJoaXN0b3J5IjpbLTIwNTYyOTcxMDcsLTExNjE5OTE1NjksOT
+MxOTIxMzM4XX0=
 -->
