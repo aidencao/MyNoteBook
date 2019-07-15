@@ -44,10 +44,11 @@ PS：注意区分与多维向量的区别。
 #### 3.2.2 Keras开发流程
 * 定义训练数据
 * 定义网络
-> 1. 使用
+> 1. 使用Sequential类进行线性堆叠
+> 2. 函数式API
 * 配置学习过程（损失函数、优化器、需要监控）
 * 进行学习
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYyOTcxMDcsLTExNjE5OTE1NjksOT
-MxOTIxMzM4XX0=
+eyJoaXN0b3J5IjpbMjc2OTM2OTQwLC0xMTYxOTkxNTY5LDkzMT
+kyMTMzOF19
 -->
