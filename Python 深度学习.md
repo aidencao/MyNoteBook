@@ -51,21 +51,22 @@ C. 二维卷积层: 用于4D张量 例如Conv2D
 #### 3.2.2 Keras开发流程
 * 定义训练数据
 * 定义网络
-> 1. 使用Sequential类进行线性堆叠
-> 2. 函数式API
+>1.使用Sequential类进行线性堆叠
+>2.函数式API
 * 配置学习过程（损失函数、优化器、需要监控）
 * 进行学习
 
 ### 3.4 电影评论分类：二分类问题
 #### A. Dense层堆叠类型的网络构建
->1.网络有多少层
->2.每层有多少个**隐藏单元**
->>隐藏单元越多,学习自由度越高,计算代价会越大,但过高会导致过拟合(调参的一部分)
->3.激活函数的选择
+1.网络有多少层
+2.每层有多少个**隐藏单元**
+>隐藏单元越多,学习自由度越高,计算代价会越大,但过高会导致过拟合(调参的一部分)
+
+3.激活函数的选择
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTcxMTc1OSwxMzMyNTQxODM3LDEwMz
+eyJoaXN0b3J5IjpbLTE0NTc0MDA4NywxMzMyNTQxODM3LDEwMz
 c1NjgwNDQsMjc2OTM2OTQwLC0xMTYxOTkxNTY5LDkzMTkyMTMz
 OF19
 -->
