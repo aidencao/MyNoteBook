@@ -50,7 +50,8 @@ PS：注意区分与多维向量的区别。
 * 进行学习
 
 ### 3.4 电影评论分类：二分类问题
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzU2ODA0NCwyNzY5MzY5NDAsLTExNj
-E5OTE1NjksOTMxOTIxMzM4XX0=
+eyJoaXN0b3J5IjpbLTE1OTA5MDM5NzQsMTAzNzU2ODA0NCwyNz
+Y5MzY5NDAsLTExNjE5OTE1NjksOTMxOTIxMzM4XX0=
 -->
