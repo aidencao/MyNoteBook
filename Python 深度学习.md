@@ -53,7 +53,7 @@ C. 二维卷积层: 用于4D张量 例如Conv2D
 * 定义网络
 >1.使用Sequential类进行线性堆叠
 >2.函数式API
-* 配置学习过程（损失函数、优化器、需要监控）
+* 配置学习过程（损失函数、优化器、监控方式）
 * 进行学习
 
 ### 3.4 电影评论分类：二分类问题
@@ -66,7 +66,7 @@ C. 二维卷积层: 用于4D张量 例如Conv2D
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc0MDA4NywxMzMyNTQxODM3LDEwMz
-c1NjgwNDQsMjc2OTM2OTQwLC0xMTYxOTkxNTY5LDkzMTkyMTMz
-OF19
+eyJoaXN0b3J5IjpbLTIwNDQxNTE2OTIsLTE0NTc0MDA4NywxMz
+MyNTQxODM3LDEwMzc1NjgwNDQsMjc2OTM2OTQwLC0xMTYxOTkx
+NTY5LDkzMTkyMTMzOF19
 -->
