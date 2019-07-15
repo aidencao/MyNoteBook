@@ -49,8 +49,8 @@ PS：注意区分与多维向量的区别。
 * 配置学习过程（损失函数、优化器、需要监控）
 * 进行学习
 
-
+### 3.4 电影评论分类：二分类问题
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg0MTA0MjQsMjc2OTM2OTQwLC0xMT
-YxOTkxNTY5LDkzMTkyMTMzOF19
+eyJoaXN0b3J5IjpbMTAzNzU2ODA0NCwyNzY5MzY5NDAsLTExNj
+E5OTE1NjksOTMxOTIxMzM4XX0=
 -->
