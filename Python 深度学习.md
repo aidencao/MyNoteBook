@@ -51,10 +51,12 @@ PS：注意区分与多维向量的区别。
 
 ### 3.4 电影评论分类：二分类问题
 #### A. Dense层堆叠类型的网络构建
-网络有多少层
-每层有多少个**隐藏单元**,他表示学习过程中的自由度
+>1.网络有多少层
+>2.每层有多少个**隐藏单元**
+>>隐藏单元越多,学习自由度越高,计算代价会越大,但过高会导致过拟合(调参的一部分)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM3OTQzNzQsMTAzNzU2ODA0NCwyNz
-Y5MzY5NDAsLTExNjE5OTE1NjksOTMxOTIxMzM4XX0=
+eyJoaXN0b3J5IjpbMTMzMjU0MTgzNywxMDM3NTY4MDQ0LDI3Nj
+kzNjk0MCwtMTE2MTk5MTU2OSw5MzE5MjEzMzhdfQ==
 -->
