@@ -64,10 +64,8 @@ C. 二维卷积层: 用于4D张量 例如Conv2D
 
 3.激活函数的选择
 
-B. huizi
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMDgyNTkzLDIyOTg2MTUzMiwtMTQ1Nz
+eyJoaXN0b3J5IjpbMjI5ODYxNTMyLDIyOTg2MTUzMiwtMTQ1Nz
 QwMDg3LDEzMzI1NDE4MzcsMTAzNzU2ODA0NCwyNzY5MzY5NDAs
 LTExNjE5OTE1NjksOTMxOTIxMzM4XX0=
 -->
